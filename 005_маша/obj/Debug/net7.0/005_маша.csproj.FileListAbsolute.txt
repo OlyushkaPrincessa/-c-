@@ -1,0 +1,15 @@
+C:\Users\Олюшка Принцесса\Desktop\Лекция 1 программа с#\005_маша\bin\Debug\net7.0\005_маша.exe
+C:\Users\Олюшка Принцесса\Desktop\Лекция 1 программа с#\005_маша\bin\Debug\net7.0\005_маша.deps.json
+C:\Users\Олюшка Принцесса\Desktop\Лекция 1 программа с#\005_маша\bin\Debug\net7.0\005_маша.runtimeconfig.json
+C:\Users\Олюшка Принцесса\Desktop\Лекция 1 программа с#\005_маша\bin\Debug\net7.0\005_маша.dll
+C:\Users\Олюшка Принцесса\Desktop\Лекция 1 программа с#\005_маша\bin\Debug\net7.0\005_маша.pdb
+C:\Users\Олюшка Принцесса\Desktop\Лекция 1 программа с#\005_маша\obj\Debug\net7.0\005_маша.csproj.AssemblyReference.cache
+C:\Users\Олюшка Принцесса\Desktop\Лекция 1 программа с#\005_маша\obj\Debug\net7.0\005_маша.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Олюшка Принцесса\Desktop\Лекция 1 программа с#\005_маша\obj\Debug\net7.0\005_маша.AssemblyInfoInputs.cache
+C:\Users\Олюшка Принцесса\Desktop\Лекция 1 программа с#\005_маша\obj\Debug\net7.0\005_маша.AssemblyInfo.cs
+C:\Users\Олюшка Принцесса\Desktop\Лекция 1 программа с#\005_маша\obj\Debug\net7.0\005_маша.csproj.CoreCompileInputs.cache
+C:\Users\Олюшка Принцесса\Desktop\Лекция 1 программа с#\005_маша\obj\Debug\net7.0\005_маша.dll
+C:\Users\Олюшка Принцесса\Desktop\Лекция 1 программа с#\005_маша\obj\Debug\net7.0\refint\005_маша.dll
+C:\Users\Олюшка Принцесса\Desktop\Лекция 1 программа с#\005_маша\obj\Debug\net7.0\005_маша.pdb
+C:\Users\Олюшка Принцесса\Desktop\Лекция 1 программа с#\005_маша\obj\Debug\net7.0\005_маша.genruntimeconfig.cache
+C:\Users\Олюшка Принцесса\Desktop\Лекция 1 программа с#\005_маша\obj\Debug\net7.0\ref\005_маша.dll
