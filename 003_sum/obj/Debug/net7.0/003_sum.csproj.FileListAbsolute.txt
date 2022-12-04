@@ -1,0 +1,15 @@
+C:\Users\Олюшка Принцесса\Desktop\Лекция 1 программа с#\003_sum\obj\Debug\net7.0\003_sum.csproj.AssemblyReference.cache
+C:\Users\Олюшка Принцесса\Desktop\Лекция 1 программа с#\003_sum\obj\Debug\net7.0\003_sum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Олюшка Принцесса\Desktop\Лекция 1 программа с#\003_sum\obj\Debug\net7.0\003_sum.AssemblyInfoInputs.cache
+C:\Users\Олюшка Принцесса\Desktop\Лекция 1 программа с#\003_sum\obj\Debug\net7.0\003_sum.AssemblyInfo.cs
+C:\Users\Олюшка Принцесса\Desktop\Лекция 1 программа с#\003_sum\obj\Debug\net7.0\003_sum.csproj.CoreCompileInputs.cache
+C:\Users\Олюшка Принцесса\Desktop\Лекция 1 программа с#\003_sum\bin\Debug\net7.0\003_sum.exe
+C:\Users\Олюшка Принцесса\Desktop\Лекция 1 программа с#\003_sum\bin\Debug\net7.0\003_sum.deps.json
+C:\Users\Олюшка Принцесса\Desktop\Лекция 1 программа с#\003_sum\bin\Debug\net7.0\003_sum.runtimeconfig.json
+C:\Users\Олюшка Принцесса\Desktop\Лекция 1 программа с#\003_sum\bin\Debug\net7.0\003_sum.dll
+C:\Users\Олюшка Принцесса\Desktop\Лекция 1 программа с#\003_sum\bin\Debug\net7.0\003_sum.pdb
+C:\Users\Олюшка Принцесса\Desktop\Лекция 1 программа с#\003_sum\obj\Debug\net7.0\003_sum.dll
+C:\Users\Олюшка Принцесса\Desktop\Лекция 1 программа с#\003_sum\obj\Debug\net7.0\refint\003_sum.dll
+C:\Users\Олюшка Принцесса\Desktop\Лекция 1 программа с#\003_sum\obj\Debug\net7.0\003_sum.pdb
+C:\Users\Олюшка Принцесса\Desktop\Лекция 1 программа с#\003_sum\obj\Debug\net7.0\003_sum.genruntimeconfig.cache
+C:\Users\Олюшка Принцесса\Desktop\Лекция 1 программа с#\003_sum\obj\Debug\net7.0\ref\003_sum.dll
