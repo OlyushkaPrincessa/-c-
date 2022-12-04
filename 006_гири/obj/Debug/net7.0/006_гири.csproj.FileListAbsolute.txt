@@ -1,0 +1,15 @@
+C:\Users\Олюшка Принцесса\Desktop\Лекция 1 программа с#\006_гири\obj\Debug\net7.0\006_гири.csproj.AssemblyReference.cache
+C:\Users\Олюшка Принцесса\Desktop\Лекция 1 программа с#\006_гири\obj\Debug\net7.0\006_гири.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Олюшка Принцесса\Desktop\Лекция 1 программа с#\006_гири\obj\Debug\net7.0\006_гири.AssemblyInfoInputs.cache
+C:\Users\Олюшка Принцесса\Desktop\Лекция 1 программа с#\006_гири\obj\Debug\net7.0\006_гири.AssemblyInfo.cs
+C:\Users\Олюшка Принцесса\Desktop\Лекция 1 программа с#\006_гири\obj\Debug\net7.0\006_гири.csproj.CoreCompileInputs.cache
+C:\Users\Олюшка Принцесса\Desktop\Лекция 1 программа с#\006_гири\bin\Debug\net7.0\006_гири.exe
+C:\Users\Олюшка Принцесса\Desktop\Лекция 1 программа с#\006_гири\bin\Debug\net7.0\006_гири.deps.json
+C:\Users\Олюшка Принцесса\Desktop\Лекция 1 программа с#\006_гири\bin\Debug\net7.0\006_гири.runtimeconfig.json
+C:\Users\Олюшка Принцесса\Desktop\Лекция 1 программа с#\006_гири\bin\Debug\net7.0\006_гири.dll
+C:\Users\Олюшка Принцесса\Desktop\Лекция 1 программа с#\006_гири\bin\Debug\net7.0\006_гири.pdb
+C:\Users\Олюшка Принцесса\Desktop\Лекция 1 программа с#\006_гири\obj\Debug\net7.0\006_гири.dll
+C:\Users\Олюшка Принцесса\Desktop\Лекция 1 программа с#\006_гири\obj\Debug\net7.0\refint\006_гири.dll
+C:\Users\Олюшка Принцесса\Desktop\Лекция 1 программа с#\006_гири\obj\Debug\net7.0\006_гири.pdb
+C:\Users\Олюшка Принцесса\Desktop\Лекция 1 программа с#\006_гири\obj\Debug\net7.0\006_гири.genruntimeconfig.cache
+C:\Users\Олюшка Принцесса\Desktop\Лекция 1 программа с#\006_гири\obj\Debug\net7.0\ref\006_гири.dll
