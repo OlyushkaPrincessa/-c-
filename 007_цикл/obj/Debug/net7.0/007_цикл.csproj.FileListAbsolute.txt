@@ -1,0 +1,15 @@
+C:\Users\Олюшка Принцесса\Desktop\Лекция 1 программа с#\007_цикл\bin\Debug\net7.0\007_цикл.exe
+C:\Users\Олюшка Принцесса\Desktop\Лекция 1 программа с#\007_цикл\bin\Debug\net7.0\007_цикл.deps.json
+C:\Users\Олюшка Принцесса\Desktop\Лекция 1 программа с#\007_цикл\bin\Debug\net7.0\007_цикл.runtimeconfig.json
+C:\Users\Олюшка Принцесса\Desktop\Лекция 1 программа с#\007_цикл\bin\Debug\net7.0\007_цикл.dll
+C:\Users\Олюшка Принцесса\Desktop\Лекция 1 программа с#\007_цикл\bin\Debug\net7.0\007_цикл.pdb
+C:\Users\Олюшка Принцесса\Desktop\Лекция 1 программа с#\007_цикл\obj\Debug\net7.0\007_цикл.csproj.AssemblyReference.cache
+C:\Users\Олюшка Принцесса\Desktop\Лекция 1 программа с#\007_цикл\obj\Debug\net7.0\007_цикл.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Олюшка Принцесса\Desktop\Лекция 1 программа с#\007_цикл\obj\Debug\net7.0\007_цикл.AssemblyInfoInputs.cache
+C:\Users\Олюшка Принцесса\Desktop\Лекция 1 программа с#\007_цикл\obj\Debug\net7.0\007_цикл.AssemblyInfo.cs
+C:\Users\Олюшка Принцесса\Desktop\Лекция 1 программа с#\007_цикл\obj\Debug\net7.0\007_цикл.csproj.CoreCompileInputs.cache
+C:\Users\Олюшка Принцесса\Desktop\Лекция 1 программа с#\007_цикл\obj\Debug\net7.0\007_цикл.dll
+C:\Users\Олюшка Принцесса\Desktop\Лекция 1 программа с#\007_цикл\obj\Debug\net7.0\refint\007_цикл.dll
+C:\Users\Олюшка Принцесса\Desktop\Лекция 1 программа с#\007_цикл\obj\Debug\net7.0\007_цикл.pdb
+C:\Users\Олюшка Принцесса\Desktop\Лекция 1 программа с#\007_цикл\obj\Debug\net7.0\007_цикл.genruntimeconfig.cache
+C:\Users\Олюшка Принцесса\Desktop\Лекция 1 программа с#\007_цикл\obj\Debug\net7.0\ref\007_цикл.dll
